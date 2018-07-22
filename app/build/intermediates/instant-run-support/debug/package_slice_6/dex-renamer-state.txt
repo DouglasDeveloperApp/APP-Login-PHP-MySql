@@ -1,0 +1,4 @@
+#Sun Feb 18 17:50:21 BRT 2018
+base.0=C\:\\Users\\Leticia\\ApkProjects\\ProjetoMysql\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex
